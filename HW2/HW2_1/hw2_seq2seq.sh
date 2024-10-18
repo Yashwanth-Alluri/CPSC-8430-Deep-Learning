@@ -1,0 +1,1 @@
+python test_yalluri.py $'/data/testing_data/feat' $'testing_data.txt'
